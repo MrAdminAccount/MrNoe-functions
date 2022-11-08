@@ -1,8 +1,6 @@
 # MrNoe-functions
 
-
 ![image](https://user-images.githubusercontent.com/86154676/200573451-0b059e01-f219-47ad-a59f-ca9f8225ed26.png)
-![image](https://user-images.githubusercontent.com/86154676/200573508-96e7e64a-b7a4-486e-9eb7-ae17c1b28f12.png)
 ![image](https://user-images.githubusercontent.com/86154676/200573521-29d46dbf-7c87-47b4-b177-6ade71f9a394.png)
 ![image](https://user-images.githubusercontent.com/86154676/200573541-ed1e114c-b016-47fc-88ff-3f063f4f165e.png)
 ![image](https://user-images.githubusercontent.com/86154676/200573668-76dda3fc-3c20-4b80-a036-12044474d650.png)
